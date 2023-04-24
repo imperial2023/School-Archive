@@ -90,7 +90,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'ACTS COMPUTER COLLEGE',
-            image: './images/ACTS.png',
+            image: './images/ACTS.PNG',
             description: '👨‍💻COMPUTER STUDIES:-----------------<ul><li>BS in Information Technology</li><li>BS in Computer Science</li></ul>👨‍💼👩‍💼BUSINESS ADMINISTRATION:---------------<ul><li>BS in Business Asministration</li><li>BS in Secratarial Administration</li><li>BS in Entrepreneurship</li></li><li>BS in Accounting Technology</li></ul>👨‍🏫TEACHER EDUCATION:----------------------</li><li>BS in Technical-Vocation Education</li>',
             location: {
                 center: [121.41468, 14.28330],
@@ -109,7 +109,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'UNION COLLEGE OF LAGUNA ',
-            image: './images/UNION.png',
+            image: './images/UNION.PNG',
             description: '👨‍🏫Teacher Education:-----------------<ul><li>Bachelor of Elementary Education </li><li>Bachelor of Secondary Education</li></ul>👨‍💼👩‍💼BUSINESS:---------------------<ul><li>AB in Economics</li><li>BS in Accountancy</li><li>BS in Commerce</li></ul> 👨‍💻COMPUTER STUDIES:-----------------<ul><li>BS in Computer Engineering</li><li>BS in Computer Science</li><li>BS in Information Technology</li></ul> 👨‍💼👩‍💼ADMINISTRATION:---------------<ul><li>BS in Secretarian Administration</li></ul>👮‍♀️👮‍♂️SOCIAL SCIENCE:---------------<ul><li>AB in Political Science</li><li>BS in Criminology</li></ul>👨‍🔧ENGINEERING:----------------<ul><li>BS in Computer Engineering</li></ul> 👨‍💼HUMANITIES:-------------<ul><li>AB in History</li></ul> 📚LANGUAGE:------------<ul><li>AB in English</li></ul> 🧮SCIENCE:------------------<ul><li>AB in Mathematics</li></ul> 👩‍🍳TOURISM,HOSPITALITY & CULINARY:--------------------<ul><li>BS in and Restaurant Management</li></ul>',       
             location: {
                 center: [121.41621, 14.28336],
